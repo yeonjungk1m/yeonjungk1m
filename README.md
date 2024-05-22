@@ -2,15 +2,7 @@
 
 
 
-
-
-
-
-
-
-
-
-![Uploading 제목을-입력해주세요_ (4).gif…]()
+![제목을-입력해주세요_ (3)](https://github.com/yeonjungk1m/yeonjungk1m/assets/162456922/880c5b06-9348-4454-935d-c587496fbac6)
 
 
 
