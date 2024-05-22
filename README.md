@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+MIRICANVAS_ITEM_COPY_KEY
 <!--
 **yeonjungk1m/yeonjungk1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
