@@ -5,6 +5,22 @@
 </div>
 
 
+Welcome to my page!😀
+I'm Yeonjung, 
+<br/>I'm mainly analyzing data with customers' data👀!
+<br/> Living in Seoul, Korea 🇰🇷
+
+<br/>
+### Thing I code 
+
+python, MySQL, Pandas, OepnCV
+
+marchine Learning, Deep Learning
+
+
+
+
+
 
 
 
